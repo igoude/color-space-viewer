@@ -11,8 +11,8 @@ Unity 2019.2.4f1
 <html>
     <body>
         <p align="center">
-            <img src="Docs/images/holes.png" alt="TMO Framework" height="300" align="middle">
-            <img src="Docs/images/dog.png" alt="TMO Framework" height="300" align="middle">
+            <img src="Docs/images/holes.png" height="300" align="middle">
+            <img src="Docs/images/dog.png" height="300" align="middle">
         </p>
     </body>
 </html>

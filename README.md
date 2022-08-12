@@ -19,10 +19,7 @@ Unity 2019.2.4f1
 
 ## Contact
 
-> PERCEPT Team - IRISA Rennes <br />
-Email: percept@irisa.fr
-
 > Ific Goudé <br />
-PhD student <br />
-Team Percept - IRISA <br />
-Email: ific.goude@irisa.fr
+Research Scientist in Computer Graphics <br />
+Email: goude.ific@gmail.com <br />
+Website: [https://igoude.github.io/](https://igoude.github.io/)
